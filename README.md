@@ -1,5 +1,6 @@
 # GitHub Profile QR Code Generator
 
+
 A Python project that generates a QR code for my GitHub profile.  
 Scanning the QR code directly opens my GitHub account.
 
